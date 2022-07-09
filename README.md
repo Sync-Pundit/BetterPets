@@ -1,2 +1,2 @@
-# betterpets.github.io
+# Sync-Pundit.github.io
 All about pets
